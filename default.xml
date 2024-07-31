@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="origin" fetch="git@github.com:LazyRichard" />
-  <default remote="origin" revision="master" />
+  <default remote="origin" revision="main" />
   <project path="git-fork-repo-test"
            name="git-fork-repo-test" />
 </manifest>
